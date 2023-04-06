@@ -1,7 +1,8 @@
 {
   "name": " tictac  ",
-  "version": "0.1.0",
   "private": true,
+  "version": "0.1.0",
+  
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -24,14 +25,11 @@
     ]
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
+   
     "development": [
       "last 1 chrome version",
       "last 2",
+      "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
     ]
